@@ -1,0 +1,72 @@
+html {
+    color: #eead00;
+}
+
+body {
+    margin: 0;
+}
+
+.left {
+    background-color: black;
+    width: 35%;
+    height: 100%;
+    float: left;
+}
+
+.right {
+    background-color: white;
+    width: 65%;
+    height: 100%;
+    float: left;
+}
+
+.Header {
+  background-color: white;
+  text-align: center;
+  font-family: "Lucida Console", Monaco, monospace;
+  letter-spacing: 3px;
+  font-size: 25px;
+  height: 10%;
+  margin-top: 10px;
+}
+
+.Main{
+  background-color: white;
+  height: 80%;
+  text-align:center;
+  word-spacing: 5em;
+}
+
+.links {
+    font-size: 2em;
+    color: black;
+}
+
+#jak_header {
+    margin-top: 2%;
+}
+#jak {
+    width: 35%;
+    height: 80%;
+    padding-left: 5em;
+}
+
+#jakLogo {
+    position: absolute;
+    width: 30%;
+    height: 65%;
+    top: 15%;
+    left: 3.5%;
+}
+.Footer {
+  background-color: white;
+  text-align: center;
+  height: auto;
+}
+
+h1 {
+    margin: 0px;
+}
+a {
+    color: black;
+}

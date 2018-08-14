@@ -1,0 +1,25 @@
+.Header {
+  background-color: gold;
+  text-align: center;
+  padding-top: 0px;
+  font-family: "Lucida Console", Monaco, monospace;
+  word-spacing: 5px;
+  letter-spacing: 3px;
+  font-size: 200%;
+}
+
+a {
+    color: black;
+}
+
+body {
+	text-align: center;
+    background-color:black;
+    color: white;
+}
+
+.Footer {
+  background-color: white;
+  text-align: center;
+  height: auto;
+}

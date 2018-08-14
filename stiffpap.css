@@ -1,0 +1,74 @@
+html {
+    color: #eead00;
+
+}
+
+body {
+    margin: 0;
+}
+.left {
+    background-color: white;
+    width: 35%;
+    height: 100%;
+    float: left;
+}
+
+.right {
+    background-color: black;
+    width: 65%;
+    height: 100%;
+    float: left;
+}
+
+.Header {
+  background-color: black;
+  text-align: center;
+  font-family: "Lucida Console", Monaco, monospace;
+  letter-spacing: 3px;
+  font-size: 25px;
+  height: 10%;
+  margin-top: 10px;
+}
+
+.Main{
+  background-color: black;
+  height: 80%;
+  text-align:center;
+  word-spacing: 5em;
+
+}
+
+.links {
+    font-size: 2em;
+    color: white;
+}
+
+#StiffPap_header {
+    margin-top: 2%;
+    font-family: Arial;
+}
+#StiffPap {
+    width: 35%;
+    height: 80%;
+    padding-left: 5em;
+}
+
+#StiffPapLogo {
+    position: absolute;
+    width: 30%;
+    height: 30%;
+    top: 33%;
+    left: 3.5%;
+}
+.Footer {
+  background-color: black;
+  text-align: center;
+  height: auto;
+}
+
+h1 {
+    margin: 0px;
+}
+a {
+    color: white;
+}
